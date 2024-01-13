@@ -1,5 +1,7 @@
-### Hi there 👋
+[My resume](https://github.com/kalin11/resume/blob/main/Lysenko_Artem_resume_25.12.23.pdf)
 
+
+![leetcode stats](https://leetcard.jacoblin.cool/kal1norbpgdan)
 <!--
 **kalin11/kalin11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
