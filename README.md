@@ -1,4 +1,4 @@
-[My resume](https://github.com/kalin11/resume/blob/main/Lysenko_Artem_resume_25.12.23.pdf)
+[My CV](https://github.com/kalin11/resume/blob/main/Lysenko_Artem_resume_25.12.23.pdf)
 
 
 ![leetcode stats](https://leetcard.jacoblin.cool/kal1norbpgdan)
